@@ -41,8 +41,8 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Bayes Theorem | Statistics | [Open Resource](https://towardsdatascience.com/bayes-theorem-understanding-outcomes-with-evidence-9e23e18b0912/) | Otieno |
 | Scaling Vs Normalization Vs Log | Machine Learning | [Open Resource](https://medium.com/data-science/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94) | Otieno |
 | Calculating Cosine Similarity | Math | [Open Resource](https://www.geeksforgeeks.org/python/how-to-calculate-cosine-similarity-in-python/) | Otieno |
-| Thinking, Fast and Slow | Thinking / Cognitive Science | [Open Resource](#) | ? |
-| Deep Learning - Ian Goodfellow | Machine Learning | [Open Resource](#) | ? |
+| Thinking, Fast and Slow | Thinking / Cognitive Science | [Open Resource](https://drive.google.com/file/d/1kbZ-Cc7A0bfwo4MDNn33oX-zGD4Dw_Tf/view?usp=drive_link) | Otieno |
+| Deep Learning - Ian Goodfellow | Machine Learning | [Open Resource](https://drive.google.com/file/d/1SY8cSYTDxaD2rieqi6koRA0aVDA7x_wP/view?usp=drive_link) | Otieno |
 | Gödel, Escher, Bach | Thinking / Computer Science | [Open Resource](#) | ? |
 | The Art of Doing Science and Engineering | Computer Science | [Open Resource](#) | ? |
 | Hands-On Machine Learning | Machine Learning | [Open Resource](#) | ? |
@@ -54,7 +54,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Elements of Statistical Learning | Statistics / Machine Learning | [Open Resource](#) | ? |
 | Linear Algebra - Gilbert Strang | Math | [Open Resource](#) | ? |
 | Random Forests (2001 Paper) | Machine Learning | [Open Resource](#) | ? |
-
+| SQLite Documentation | Database Systems | [Open Resource](https://sqlite.org/docs.html) | Otieno |
 ---
 
 ## Disclaimer
