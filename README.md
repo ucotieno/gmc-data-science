@@ -43,8 +43,8 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Calculating Cosine Similarity | Math | [Open Resource](https://www.geeksforgeeks.org/python/how-to-calculate-cosine-similarity-in-python/) | Otieno |
 | Thinking, Fast and Slow | Thinking / Cognitive Science | [Open Resource](https://drive.google.com/file/d/1kbZ-Cc7A0bfwo4MDNn33oX-zGD4Dw_Tf/view?usp=drive_link) | Otieno |
 | Deep Learning - Ian Goodfellow | Machine Learning | [Open Resource](https://drive.google.com/file/d/1SY8cSYTDxaD2rieqi6koRA0aVDA7x_wP/view?usp=drive_link) | Otieno |
-| Gödel, Escher, Bach | Thinking / Computer Science | [Open Resource](#) | ? |
-| The Art of Doing Science and Engineering | Computer Science | [Open Resource](#) | ? |
+| Gödel, Escher, Bach | Thinking / Computer Science | [Open Resource](https://drive.google.com/file/d/14VxhJEOpHsuuhoZ06PxjzxTpOdX32Pm7/view?usp=drive_link) | Otieno |
+| The Art of Doing Science and Engineering | Computer Science | [Open Resource](https://drive.google.com/file/d/14Zl8miwQxP0N_K6oyVzCqwtwxE19Dl7F/view?usp=drive_link) | Otieno |
 | Hands-On Machine Learning | Machine Learning | [Open Resource](https://drive.google.com/file/d/11MyqKyXuXNqxRRklYzeRC8B6cmVZuv4v/view?usp=drive_link) | Otieno |
 | Introduction to Probability | Statistics | [Open Resource](https://drive.google.com/file/d/1JaRJhS05ZN18IdAxdTsJE82N5GeN5q3P/view?usp=drive_link) | Otieno |
 | Probability Theory - Jaynes | Statistics | [Open Resource](https://drive.google.com/file/d/1OA5PvXA0Qz0bv6wdTUnpt6WwuyIG8bkh/view?usp=drive_link) | Otieno |
