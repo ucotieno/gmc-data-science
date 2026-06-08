@@ -58,7 +58,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Database Samples | Database Systems | [Open Resource](https://drive.google.com/drive/folders/126kNATKNGz6aIIJ6P5PGEzAWpCKV1sl5?usp=drive_link)| Otieno|
 | Relational Model Math Foundations| Database Systems | [Open Resource](https://runestone.academy/ns/books/published/practical_db/PART3_RELATIONAL_DATABASE_THEORY/01-relational-model/relational-model.html)| Otieno|
 | DB Diagram | Tool | [Open Resource](https://dbdiagram.io/) | Otieno |
-| 29 Data Science Applications and Examples | Applications of Data Science | [open Resource](https://builtin.com/data-science/data-science-applications-examples) | Dorcas|
+| 29 Data Science Applications and Examples | Applications of Data Science | [Open Resource](https://builtin.com/data-science/data-science-applications-examples) | Dorcas|
 ---
 
 ## Disclaimer
