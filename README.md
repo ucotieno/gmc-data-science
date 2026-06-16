@@ -61,6 +61,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Python for Data Analysis | Computer Science | [Open Resource](https://drive.google.com/file/d/1CqILmNZkQlZbDZ6KGKKX3AKJ8jikxjKP/view?usp=drive_link) | Otieno|
 | ADP List | Networking | [Open Resource](https://adplist.org/explore/data-science) | Otieno |
 | 29 Data Science Applications and Examples | Applications of Data Science | [Open Resource](https://builtin.com/data-science/data-science-applications-examples) | Dorcas|
+| Scaling Laws for Neural Language Models | Computer Science | [Open Resource](https://drive.google.com/file/d/1fCf_6TVcScQ24BX7eCa7Q3onZJtaOS2P/view?usp=drive_link") | Otieno |
 ---
 
 ## Disclaimer
