@@ -60,6 +60,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | DB Diagram | Tool | [Open Resource](https://dbdiagram.io/) | Otieno |
 | Python for Data Analysis | Computer Science | [Open Resource](https://drive.google.com/file/d/1CqILmNZkQlZbDZ6KGKKX3AKJ8jikxjKP/view?usp=drive_link) | Otieno|
 | ADP List | Networking | [Open Resource](https://adplist.org/explore/data-science) | Otieno |
+| 29 Data Science Applications and Examples | Applications of Data Science | [Open Resource](https://builtin.com/data-science/data-science-applications-examples) | Dorcas|
 ---
 
 ## Disclaimer
